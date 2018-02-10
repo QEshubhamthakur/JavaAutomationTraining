@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.qait.math.RunCukeTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 2, Skipped: 1, Time elapsed: 0.769 sec <<< FAILURE!
+When I add a and b(| a | b | 3 |)  Time elapsed: 0.003 sec  <<< ERROR!
+com.qait.math.InputNotANumberException: The number entered can only be a number
+	at com.qait.math.Math.add(Math.java:20)
+	at com.qait.math.StepDefs.i_add_and(StepDefs.java:19)
+	at ✽.When I add a and b(test.feature:8)
+| a | b | 3 |  Time elapsed: 0.003 sec  <<< ERROR!
+com.qait.math.InputNotANumberException: The number entered can only be a number
+	at com.qait.math.Math.add(Math.java:20)
+	at com.qait.math.StepDefs.i_add_and(StepDefs.java:19)
+	at ✽.When I add a and b(test.feature:8)
