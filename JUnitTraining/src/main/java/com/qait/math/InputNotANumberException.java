@@ -2,7 +2,9 @@ package com.qait.math;
 
 public class InputNotANumberException extends NumberFormatException{
     
-    public InputNotANumberException(String s){
+    private static final long serialVersionUID = 1L;
+
+	public InputNotANumberException(String s){
         super (s);
     }
     

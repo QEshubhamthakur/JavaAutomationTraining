@@ -1,7 +1,0 @@
-<suite name="softwaretestingmaterial">
-	<test name="testngTest">
-		<classes>
-			<class name="com.qait.math.TestAdd" />
-		</classes>
-	</test>
-</suite>

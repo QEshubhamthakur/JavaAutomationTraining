@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.qait.math.TestAdd
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.481 sec <<< FAILURE!
-testPositiveScenario(com.qait.math.TestAdd)  Time elapsed: 0.002 sec  <<< FAILURE!
-com.qait.math.InputNotANumberException: The number entered can only be a number
-	at com.qait.math.Math.add(Math.java:20)
-	at com.qait.math.TestAdd.testPositiveScenario(TestAdd.java:13)
-
