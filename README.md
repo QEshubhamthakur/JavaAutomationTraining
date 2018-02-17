@@ -11,4 +11,4 @@ All the projects are maven project
 | JavaMavenTraining | Maven build tool example |
 | JavaTrainingBasics | Java Basics: includes collection, regex and class example |
 | JUnitTraining | Contains JUnit example test code |
-| TestNGTraining | Contains TesnNG example code |
+| TestNGTraining | Contains TestNG example code |
