@@ -5,5 +5,10 @@ There are following folders for dummy code
 All the projects are maven project
 
 | Folder name | Purpose |
-| Cucumber Training | Code for executing the cucumber tests |
-
+| --- | --- |
+| CucumberTraining | Code for executing the cucumber tests |
+| JavaANTTraining | ANT build tool example |
+| JavaMavenTraining | Maven build tool example |
+| JavaTrainingBasics | Java Basics: includes collection, regex and class example |
+| JUnitTraining | Contains JUnit example test code |
+| TestNGTraining | Contains TesnNG example code |
