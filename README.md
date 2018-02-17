@@ -12,3 +12,4 @@ All the projects are maven project
 | JavaTrainingBasics | Java Basics: includes collection, regex and class example |
 | JUnitTraining | Contains JUnit example test code |
 | TestNGTraining | Contains TestNG example code |
+| FileReadPractice | File Read write practice code - WIP |
