@@ -14,4 +14,5 @@ All the projects are maven project
 | TestNGTraining | Contains TestNG example code |
 | FileReadPractice | File Read write practice code - WIP |
 
-Test Merge
+This repo could be forked and used as starting point for java practice
+
