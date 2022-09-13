@@ -13,3 +13,5 @@ All the projects are maven project
 | JUnitTraining | Contains JUnit example test code |
 | TestNGTraining | Contains TestNG example code |
 | FileReadPractice | File Read write practice code - WIP |
+
+Test Merge
