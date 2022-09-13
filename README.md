@@ -15,3 +15,4 @@ All the projects are maven project
 | FileReadPractice | File Read write practice code - WIP |
 
 This repo could be forked and used as starting point for java practice
+
